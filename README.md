@@ -4,6 +4,6 @@ Repositório para o desenvolvimento de um trabalho de conclusão de curso sobre 
 
 # to-do
 
-[ ] fazer o to-do
-[ ] triagem das referências do projeto inicial
-[ ] baixar referências filtradas do projeto inicial e incluir no repo
+- [ ] fazer o to-do
+- [ ] triagem das referências do projeto inicial
+- [ ] baixar referências filtradas do projeto inicial e incluir no repo
