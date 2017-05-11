@@ -5,8 +5,8 @@ Repositório para o desenvolvimento de um trabalho de conclusão de curso sobre 
 
 ## todo
 
-- [x] fazer o todo
-- [x] baixar a maior parte das referências úteis
+- [x] ~~fazer o todo~~
+- [x] ~~baixar a maior parte das referências úteis~~
 - [ ] olhar meu pocket e fb saves por artigos salvos
 - [ ] esquematizar as diferentes partes do tcc
 - [ ] estabelecer leituras prioritárias
