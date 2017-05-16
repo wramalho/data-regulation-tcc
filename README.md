@@ -9,6 +9,7 @@ Repositório para o desenvolvimento de um trabalho de conclusão de curso sobre 
 - [x] ~~baixar a maior parte das referências úteis~~
 - [ ] olhar meu pocket e ~~fb saves~~ por artigos salvos
 - [ ] decidir se quero focar em experimental legislation ou temporary legislation
+- [ ] filtrar papers
 - [ ] esquematizar as diferentes partes do tcc
 - [ ] estabelecer leituras prioritárias
 - [ ] estabelecer rotina de leituras
