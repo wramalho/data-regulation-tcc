@@ -23,7 +23,7 @@ Repositório para o desenvolvimento de um trabalho de conclusão de curso sobre 
 
 #### ORDEM DE PRIORIDADES
 
-- [ ] ler paper x de Ranchordás 
+- [x] ler paper x de Ranchordás 
 - [ ] ler capítulo relevante do livro de Ranchordás
 - [ ] ler partes 1 e 2 de 'temporary-legislation'
 - [ ] ler 'Regulating in the Dark' para explicar porque o mecanismo de revisão de uma sunset clause é interessante
